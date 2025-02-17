@@ -47,7 +47,7 @@ yes_in_a_bunch_of_languages = {
     'Ukrainian': 'Так (Tak)	', 'Urdu': 'ہاں (Haan)	',
     'Uzbek': 'Ha', 'Vietnamese': 'Có',
     'Welsh': 'Ie', 'Xhosa': 'Ewe',
-    'Esperanto': 'E', '': '',
+    'Esperanto': 'E'
 }
 
 language = random.choice(list(yes_in_a_bunch_of_languages))
